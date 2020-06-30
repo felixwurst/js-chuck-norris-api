@@ -1,0 +1,26 @@
+
+#container {
+    color: darkgreen;
+    text-align: center;
+    font-size: 16px;
+    border: 2px solid darkgreen;
+    height: 300px;
+}
+
+#newJoke {
+    display: block;
+    cursor: pointer;
+    /* text-decoration: none; */
+
+    background-color: white;
+    border: 2px solid darkgreen;
+    color: darkgreen;
+
+    font-size: 16px;
+    padding: 18px 32px;
+    margin: 20px auto;
+
+    box-shadow: 4px 4px darkgreen;
+    border-radius: 10px;
+
+}
