@@ -1,3 +1,11 @@
 # Chuck Norris-API in JavaScript
-## Task
-Get data from a Chuck Norris-API using await fetch. If you press the button, you will get displayed a new joke.
+
+### Exercise:
+
+Get data from a Chuck Norris API using fetch. Each time the button is pressed, a new joke is displayed.
+
+### Tools:
+
+-   HTML
+-   CSS
+-   JavaScript
