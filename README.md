@@ -1,4 +1,6 @@
-# Chuck Norris-API in JavaScript
+# Chuck Norris API in JavaScript
+
+[Live Demo](https://felixwurst.github.io/js-chuck-norris-api/)
 
 ### Exercise:
 
